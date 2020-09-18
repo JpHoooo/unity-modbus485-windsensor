@@ -18,7 +18,8 @@ __转跳到[下载链接](http://www.wch.cn/downloads/CH341SER_EXE.html)__
 ***
 # 第四步：运行工程
 场景的灯光会根据风速值得大小变强变弱，风速越大，灯光亮度越大，反之亦然  
-![stop2move](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-modbus485-windsensor/stop2move.gif)![move2stop](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-modbus485-windsensor/move2stop.gif)
+![stop2move](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-modbus485-windsensor/stop2move.gif)
+![move2stop](https://jp-github.oss-cn-shenzhen.aliyuncs.com/unity-modbus485-windsensor/move2stop.gif)
 ***
 ## 以上是简单操作流程，具体实操难度较为大，欢迎交流咨询
 ## 联系方式：86-18819301997（wechat/tel）
