@@ -1,5 +1,9 @@
 # 🔥 Use unity3d to connect wind speed sensor through Modbus485 protocol
 
+Awaiting solution：
+- [ ] The response speed of the wind speed sensor is very slow
+Maybe a hardware problem...
+
 ## ⭐ First step：Hardware assembly
 
 ![windSensor](https://github.com/JpHoooo/unity-modbus485-windsensor/blob/master/Preview/windSensor.png)  
@@ -8,7 +12,7 @@
 
 ## ⭐ Second step：Install 340h driver
 
-[Download link](http://www.wch.cn/downloads/CH341SER_EXE.html)__
+[Download link](http://www.wch.cn/downloads/CH341SER_EXE.html)
 
 After installing the driver to stop vomiting and connecting the USB to the host computer, if the following icon appears in the device manager, it means the configuration is correct
 
