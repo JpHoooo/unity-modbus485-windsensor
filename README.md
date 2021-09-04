@@ -6,13 +6,13 @@ Awaiting solution：
 
 Maybe a hardware problem...
 
-## ⭐ First step：Hardware assembly
+## ⭐ Step 1：Hardware assembly
 
 ![windSensor](https://github.com/JpHoooo/unity-modbus485-windsensor/blob/master/Preview/windSensor.png)  
 
 ![usbTo485](https://github.com/JpHoooo/unity-modbus485-windsensor/blob/master/Preview/usbTo485.png)  
 
-## ⭐ Second step：Install 340h driver
+## ⭐ Step 2：Install 340h driver
 
 [Download link](http://www.wch.cn/downloads/CH341SER_EXE.html)
 
@@ -20,7 +20,7 @@ After installing the driver to stop vomiting and connecting the USB to the host 
 
 ![port](https://github.com/JpHoooo/unity-modbus485-windsensor/blob/master/Preview/port.png) 
 
-## ⭐ Third step：Open the unity project & Modify the port in the code
+## ⭐ Step 4：Open the unity project & Modify the port in the code
 
 See the red box in the picture below, please make changes according to the COM port on the picture in the second step 
 
