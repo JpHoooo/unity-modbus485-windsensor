@@ -20,7 +20,7 @@ After installing the driver and connecting the USB to the host computer, if the 
 
 ![port](https://github.com/JpHoooo/unity-modbus485-windsensor/blob/master/Preview/port.png) 
 
-## ⭐ Step 4：Open the unity project & Modify the port in the code
+## ⭐ Step 3：Open the unity project & Modify the port in the code
 
 See the red box in the picture below, please make changes according to the COM port on the picture in the second step 
 
