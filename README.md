@@ -16,7 +16,7 @@ Maybe a hardware problem...
 
 [Download link](http://www.wch.cn/downloads/CH341SER_EXE.html)
 
-After installing the driver to stop vomiting and connecting the USB to the host computer, if the following icon appears in the device manager, it means the configuration is correct
+After installing the driver and connecting the USB to the host computer, if the following icon appears in the device manager, it means the configuration is correct
 
 ![port](https://github.com/JpHoooo/unity-modbus485-windsensor/blob/master/Preview/port.png) 
 
